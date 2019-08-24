@@ -23,7 +23,7 @@ This requires the clang compiler to be installed in macOS and should generally w
 
 </p>
 
-<h2>Future Goals</h2>
+<h2>Future Plans</h2>
 <ul>
     <li>Options for choosing/switching OpenCL devices</li>
     <li>Retire usage of maps hence potentially reducing redablility in favour of efficiency</li>
